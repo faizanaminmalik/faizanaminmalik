@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faizanaminmalik
-- 👀 I’m interested in devops and automation projects
-- 🌱 I’m currently learning k8s and AWS
-- 💞️ I’m looking to collaborate on automating the boring stuff
+- 👀 I’m interested in devops and automation projects for all infra
+- 🌱 I’m currently passionate about k8s and gitops and everything as Code.
+- 💞️ I’m looking to collaborate on automating the boring stuff and define a smarter and automated way to manage all your infrastructure.
 - 📫 How to reach me ... email: fxnmalik@gmail.com
 
 <!---
